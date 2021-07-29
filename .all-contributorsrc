@@ -1,0 +1,173 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "DonNicoJs",
+      "name": "Nicolò Maria Mezzopera",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/5890166?v=4",
+      "profile": "https://github.com/DonNicoJs",
+      "contributions": [
+        "code",
+        "maintenance",
+        "doc"
+      ]
+    },
+    {
+      "login": "KoRiGaN",
+      "name": "Mickaël",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/924890?v=4",
+      "profile": "https://github.com/KoRiGaN",
+      "contributions": [
+        "code",
+        "maintenance"
+      ]
+    },
+    {
+      "login": "bezany",
+      "name": "bezany",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/5105017?v=4",
+      "profile": "https://github.com/bezany",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "mikeu",
+      "name": "Michael Underwood",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/605493?v=4",
+      "profile": "https://github.com/mikeu",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "byWulf",
+      "name": "Michael Wolf",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/135651?v=4",
+      "profile": "https://github.com/byWulf",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "zuck",
+      "name": "Emanuele Bertoldi",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/1370938?v=4",
+      "profile": "http://zuck.github.io/",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "javiertury",
+      "name": "javiertury",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/1520320?v=4",
+      "profile": "https://github.com/javiertury",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "jericopulvera",
+      "name": "ECO",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/23246308?v=4",
+      "profile": "https://twitter.com/jericopulvera",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "udos",
+      "name": "Udo Schochtert",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/141107?v=4",
+      "profile": "https://github.com/udos",
+      "contributions": [
+        "bug"
+      ]
+    },
+    {
+      "login": "maratumba",
+      "name": "Yaman Ozakin",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/2898911?v=4",
+      "profile": "https://github.com/maratumba",
+      "contributions": [
+        "bug"
+      ]
+    },
+    {
+      "login": "ajmas",
+      "name": "Andre-John Mas",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/682269?v=4",
+      "profile": "https://terra-azure.org",
+      "contributions": [
+        "doc",
+        "code"
+      ]
+    },
+    {
+      "login": "geopic",
+      "name": "George Pickering",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/29524044?v=4",
+      "profile": "https://github.com/geopic",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "Machine-Maker",
+      "name": "Jake Potrebic",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/15055071?v=4",
+      "profile": "https://github.com/Machine-Maker",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "itanka9",
+      "name": "itanka9",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/17390418?v=4",
+      "profile": "https://github.com/itanka9",
+      "contributions": [
+        "doc",
+        "code"
+      ]
+    },
+    {
+      "login": "bravik",
+      "name": "bravik",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/1075618?v=4",
+      "profile": "https://github.com/bravik",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "pgrimaud",
+      "name": "Pierre Grimaud",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/1866496?v=4",
+      "profile": "https://github.com/pgrimaud",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "andi23rosca",
+      "name": "Andrei Rosca",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/7364627?v=4",
+      "profile": "https://github.com/andi23rosca",
+      "contributions": [
+        "code"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "Vue2Leaflet",
+  "projectOwner": "vue-leaflet",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}
