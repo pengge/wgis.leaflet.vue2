@@ -11,6 +11,7 @@ const examples = fs.readdirSync(examplesFolder).filter(c => c !== 'README.md');
 
 module.exports = {
   title: 'Vue Leaflet',
+  base : '/wgis.leaflet.vue2/',
   description: 'Documentations, API, and FAQ for vue leaflet',
   head: [['link', { rel: 'icon', type: 'image/png', href: '/favicon.png' }]],
   plugins: [
