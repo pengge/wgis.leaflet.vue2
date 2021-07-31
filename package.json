@@ -1,6 +1,6 @@
 {
   "name": "wgis.leaflet.vue2",
-  "version": "2.7.1",
+  "version": "2.7.9210731",
   "description": "Vue2 leaflet library src author: Mickael Bouchaud ,this is modify version",
   "author": "yigesuren",
   "scripts": {

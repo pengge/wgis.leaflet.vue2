@@ -40,6 +40,15 @@ export default {
       this.$emit('ready', this.mapObject);
     });
   },
+  
+  methods: { 
+    /**
+     * 重绘制
+     */
+    setRedrawComponent() {
+      this.mapObject.redraw();
+    },
+  },
 };
 </script>
 
