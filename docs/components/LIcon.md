@@ -38,7 +38,7 @@ title: LIcon
 
 <script>
 import L from 'leaflet';
-import {LMap, LTileLayer, LMarker, LIcon} from 'vue2-leaflet';
+import {LMap, LTileLayer, LMarker, LIcon} from 'wgis.leaflet.vue2';
 
 export default {
   components: {

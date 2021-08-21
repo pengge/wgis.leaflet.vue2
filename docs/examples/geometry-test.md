@@ -50,7 +50,7 @@ import {
   LRectangle,
   LPolygon,
   LPolyline
-} from "vue2-leaflet";
+} from "wgis.leaflet.vue2";
 
 export default {
   name: "GeometryTest",

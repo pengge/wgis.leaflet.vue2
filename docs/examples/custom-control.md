@@ -34,7 +34,7 @@ pageClass: example-page
 
 <script>
 import { latLng } from "leaflet";
-import { LMap, LTileLayer, LControl } from "vue2-leaflet";
+import { LMap, LTileLayer, LControl } from "wgis.leaflet.vue2";
 
 export default {
   name: "Example",

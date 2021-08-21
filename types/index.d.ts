@@ -1,4 +1,4 @@
-// Type definitions for vue2-leaflet v2.0.x
+// Type definitions for wgis.leaflet.vue2 v2.0.x
 // Project: https://github.com/KoRiGaN/Vue2Leaflet/
 // Definitions by: Matthew Meehan <https://github.com/HIMISOCOOL>
 
@@ -13,7 +13,7 @@
  * 'L' references the leaflet package, such as used with L.Bounds
  */
 
-declare module "vue2-leaflet" {
+declare module "wgis.leaflet.vue2" {
   import Vue from "vue";
   import { PropsDefinition } from "vue/types/options";
   // borrowed from https://github.com/vuejs/vue-class-component

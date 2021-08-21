@@ -32,7 +32,7 @@ pageClass: example-page
 
 <script>
 import { CRS } from "leaflet";
-import { LMap, LImageOverlay, LMarker, LPopup, LPolyline } from "vue2-leaflet";
+import { LMap, LImageOverlay, LMarker, LPopup, LPolyline } from "wgis.leaflet.vue2";
 
 export default {
   components: {

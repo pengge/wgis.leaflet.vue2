@@ -121,7 +121,7 @@ import {
   LMarker,
   LPolyline,
   LLayerGroup
-} from "vue2-leaflet";
+} from "wgis.leaflet.vue2";
 
 var markers1 = [
   {

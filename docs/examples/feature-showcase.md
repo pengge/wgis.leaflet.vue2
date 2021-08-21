@@ -242,7 +242,7 @@ import {
   LControlAttribution,
   LControlScale,
   LControlLayers
-} from 'vue2-leaflet';
+} from 'wgis.leaflet.vue2';
 
 const markers1 = [
   {

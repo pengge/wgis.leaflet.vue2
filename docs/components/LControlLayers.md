@@ -26,7 +26,7 @@ title: LControlLayers
 </template>
 
 <script>
-import {LMap, LTileLayer, LControlLayers} from 'vue2-leaflet';
+import {LMap, LTileLayer, LControlLayers} from 'wgis.leaflet.vue2';
 
 export default {
   components: {

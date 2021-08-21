@@ -25,7 +25,7 @@ Tooltip placed inside a marker will by default appear on marker hover.
 </template>
 
 <script>
-import {LMap, LTileLayer, LMarker, LTooltip} from 'vue2-leaflet';
+import {LMap, LTileLayer, LMarker, LTooltip} from 'wgis.leaflet.vue2';
 
 export default {
   components: {

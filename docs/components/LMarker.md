@@ -19,7 +19,7 @@ title: LMarker
 </template>
 
 <script>
-import {LMap, LTileLayer, LMarker} from 'vue2-leaflet';
+import {LMap, LTileLayer, LMarker} from 'wgis.leaflet.vue2';
 
 export default {
   components: {

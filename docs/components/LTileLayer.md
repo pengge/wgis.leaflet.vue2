@@ -18,7 +18,7 @@ title: LTileLayer
 </template>
 
 <script>
-import {LMap, LTileLayer} from 'vue2-leaflet';
+import {LMap, LTileLayer} from 'wgis.leaflet.vue2';
 
 export default {
   components: { LMap, LTileLayer, },

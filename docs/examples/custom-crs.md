@@ -22,7 +22,7 @@ pageClass: example-page
 
 <script>
 import { CRS, latLng } from "leaflet";
-import { LMap, LTileLayer } from "vue2-leaflet";
+import { LMap, LTileLayer } from "wgis.leaflet.vue2";
 import "proj4leaflet";
 import proj4 from "proj4";
 

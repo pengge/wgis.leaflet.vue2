@@ -31,7 +31,7 @@ pageClass: example-page
 
 <script>
 import { latLngBounds, latLng } from "leaflet";
-import { LMap, LTileLayer, LMarker } from "vue2-leaflet";
+import { LMap, LTileLayer, LMarker } from "wgis.leaflet.vue2";
 
 export default {
   name: "SetBounds",

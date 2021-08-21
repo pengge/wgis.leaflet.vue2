@@ -23,7 +23,7 @@ I am a useless button!
 </template>
 
 <script>
-import {LMap, LTileLayer, LControl} from 'vue2-leaflet';
+import {LMap, LTileLayer, LControl} from 'wgis.leaflet.vue2';
 
 export default {
   components: {

@@ -50,7 +50,7 @@ pageClass: example-page
 
 <script>
 import { latLng } from "leaflet";
-import { LMap, LTileLayer, LMarker, LGeoJson } from "vue2-leaflet";
+import { LMap, LTileLayer, LMarker, LGeoJson } from "wgis.leaflet.vue2";
 
 export default {
   name: "Example",

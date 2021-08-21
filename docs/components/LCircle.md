@@ -23,7 +23,7 @@ title: LCircle
 </template>
 
 <script>
-import {LMap, LTileLayer, LCircle} from 'vue2-leaflet';
+import {LMap, LTileLayer, LCircle} from 'wgis.leaflet.vue2';
 
 
 export default {

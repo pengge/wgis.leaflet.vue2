@@ -55,7 +55,7 @@ import {
   LPolyline,
   LPopup,
   LTooltip,
-} from "vue2-leaflet";
+} from "wgis.leaflet.vue2";
 import { latLng } from "leaflet";
 
 export default {
