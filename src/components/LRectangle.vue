@@ -58,7 +58,7 @@ export default {
 </template>
 
 <script>
-import {LMap, LTileLayer, LRectangle} from 'vue2-leaflet';
+import {LMap, LTileLayer, LRectangle} from "wgis.leaflet.vue2";
 
 export default {
   components: {

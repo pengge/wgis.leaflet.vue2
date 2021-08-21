@@ -19,7 +19,7 @@ title: LGeoJson
 </template>
 
 <script>
-import {LMap, LTileLayer, LGeoJson} from 'wgis.leaflet.vue2';
+import {LMap, LTileLayer, LGeoJson} from "wgis.leaflet.vue2";
 
 export default {
   components: {

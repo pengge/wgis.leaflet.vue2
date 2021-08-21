@@ -49,7 +49,7 @@ export default {
 </script>
 
 <docs>
-## Demo
+## 演示
 ::: demo
   <template>
   <l-map style="height: 350px" :zoom="zoom" :center="center">
@@ -63,7 +63,7 @@ export default {
 </template>
 
 <script>
-import {LMap, LTileLayer, LCircle} from 'vue2-leaflet';
+import {LMap, LTileLayer, LCircle} from "wgis.leaflet.vue2";
 
 
 export default {

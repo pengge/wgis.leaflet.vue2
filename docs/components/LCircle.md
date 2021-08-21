@@ -8,7 +8,7 @@ title: LCircle
 
 ---
 
-## Demo
+## 演示
 
 ::: demo
 <template>
@@ -23,7 +23,7 @@ title: LCircle
 </template>
 
 <script>
-import {LMap, LTileLayer, LCircle} from 'wgis.leaflet.vue2';
+import {LMap, LTileLayer, LCircle} from "wgis.leaflet.vue2";
 
 
 export default {

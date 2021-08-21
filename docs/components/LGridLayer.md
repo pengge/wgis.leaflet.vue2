@@ -22,7 +22,7 @@ title: LGridLayer
 </template>
 
 <script>
-import {LMap, LTileLayer, LGridLayer} from 'wgis.leaflet.vue2';
+import {LMap, LTileLayer, LGridLayer} from "wgis.leaflet.vue2";
 
 export default {
   components: {

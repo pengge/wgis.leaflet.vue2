@@ -54,7 +54,7 @@ export default {
 </template>
 
 <script>
-import {LMap, LWMSTileLayer, LControlLayers } from 'vue2-leaflet';
+import {LMap, LWMSTileLayer, LControlLayers } from "wgis.leaflet.vue2";
 
 export default {
   components: {

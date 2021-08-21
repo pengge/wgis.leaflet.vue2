@@ -21,7 +21,7 @@ title: LImageOverlay
 </template>
 
 <script>
-import {LMap, LImageOverlay, LMarker, LPopup} from 'wgis.leaflet.vue2';
+import {LMap, LImageOverlay, LMarker, LPopup} from "wgis.leaflet.vue2";
 
 export default {
   components: {

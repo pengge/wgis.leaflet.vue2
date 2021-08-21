@@ -53,7 +53,7 @@ export default {
 </template>
 
 <script>
-import {LMap, LTileLayer, LControlAttribution} from 'vue2-leaflet';
+import {LMap, LTileLayer, LControlAttribution} from "wgis.leaflet.vue2";
 
 export default {
   components: {

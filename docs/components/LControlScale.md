@@ -19,7 +19,7 @@ title: LControlScale
 </template>
 
 <script>
-import {LMap, LTileLayer, LControlScale} from 'wgis.leaflet.vue2';
+import {LMap, LTileLayer, LControlScale} from "wgis.leaflet.vue2";
 
 export default {
   components: {

@@ -19,7 +19,7 @@ title: LControlZoom
 </template>
 
 <script>
-import {LMap, LTileLayer, LControlZoom} from 'wgis.leaflet.vue2';
+import {LMap, LTileLayer, LControlZoom} from "wgis.leaflet.vue2";
 
 export default {
   components: {

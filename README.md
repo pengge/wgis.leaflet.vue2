@@ -38,19 +38,19 @@ Leaflet is now a peerDependency and need to be installed manually, we updated ou
 Now the code of vue2-leaflet is split component by component (while using a bundler like Webpack/Rollup/Parcel) to do so the following syntax is not working anymore:
 
 ```javascript
-import Vue2Leaflet from 'vue2-leaflet'; // INVALID
+import Vue2Leaflet from "wgis.leaflet.vue2"; // INVALID
 ```
 
 And has been replaced by
 
 ```javascript
-import * as Vue2Leaflet from 'vue2-leaflet'; // VALID
+import * as Vue2Leaflet from "wgis.leaflet.vue2"; // VALID
 ```
 
 Is highly suggested to import only the needed modules by doing so:
 
 ```javascript
-import { LMap, LTileLayer, LMarker } from 'vue2-leaflet';
+import { LMap, LTileLayer, LMarker } from "wgis.leaflet.vue2";
 ```
 
 This will reduce the size of the bundle significantly

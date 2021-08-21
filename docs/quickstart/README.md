@@ -34,7 +34,7 @@ yarn add leaflet vue2-leaflet
 
 ```js
 import Vue from 'vue';
-import { LMap, LTileLayer, LMarker } from 'vue2-leaflet';
+import { LMap, LTileLayer, LMarker } from "wgis.leaflet.vue2";
 import 'leaflet/dist/leaflet.css';
 
 Vue.component('l-map', LMap);
@@ -50,7 +50,7 @@ Vue.component('l-marker', LMarker);
 // If you need to reference 'L', such as in 'L.icon', then be sure to
 // explicitly import 'leaflet' into your component
 import L from 'leaflet';
-import { LMap, LTileLayer, LMarker } from 'vue2-leaflet';
+import { LMap, LTileLayer, LMarker } from "wgis.leaflet.vue2";
 
 export default {
   name: 'MyAwesomeMap',
@@ -94,7 +94,7 @@ But it can be manually done by adding a plugin let's say `leaflet.js` in your `p
 
 ```js
 import Vue from 'vue';
-import { LMap, LTileLayer, LMarker } from 'vue2-leaflet';
+import { LMap, LTileLayer, LMarker } from "wgis.leaflet.vue2";
 
 Vue.component('l-map', LMap);
 Vue.component('l-tile-layer', LTileLayer);

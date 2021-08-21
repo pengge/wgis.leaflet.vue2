@@ -19,7 +19,7 @@ title: LPolyline
 </template>
 
 <script>
-import {LMap, LTileLayer, LPolyline} from 'wgis.leaflet.vue2';
+import {LMap, LTileLayer, LPolyline} from "wgis.leaflet.vue2";
 
 export default {
   components: {

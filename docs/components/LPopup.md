@@ -25,7 +25,7 @@ Popup placed inside a marker will by default appear on marker click.
 </template>
 
 <script>
-import {LMap, LTileLayer, LMarker, LPopup} from 'wgis.leaflet.vue2';
+import {LMap, LTileLayer, LMarker, LPopup} from "wgis.leaflet.vue2";
 
 export default {
   components: {

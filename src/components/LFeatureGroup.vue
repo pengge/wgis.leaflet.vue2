@@ -66,7 +66,7 @@ This component is particularly useful to have a single tooltip / popup that is '
 </template>
 
 <script>
-import {LMap, LTileLayer, LFeatureGroup, LPopup, LCircle, LMarker} from 'vue2-leaflet';
+import {LMap, LTileLayer, LFeatureGroup, LPopup, LCircle, LMarker} from "wgis.leaflet.vue2";
 
 export default {
   components: {

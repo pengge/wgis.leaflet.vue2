@@ -37,7 +37,7 @@ If your markup does not have a root `<l-map>` something is wrong.
 </template>
 
 <script>
-import {LMap, LTileLayer} from 'wgis.leaflet.vue2';
+import {LMap, LTileLayer} from "wgis.leaflet.vue2";
 
 export default {
   components: {

@@ -19,7 +19,7 @@ title: LControlAttribution
 </template>
 
 <script>
-import {LMap, LTileLayer, LControlAttribution} from 'wgis.leaflet.vue2';
+import {LMap, LTileLayer, LControlAttribution} from "wgis.leaflet.vue2";
 
 export default {
   components: {

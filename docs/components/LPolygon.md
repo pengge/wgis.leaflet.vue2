@@ -19,7 +19,7 @@ title: LPolygon
 </template>
 
 <script>
-import {LMap, LTileLayer, LPolygon} from 'wgis.leaflet.vue2';
+import {LMap, LTileLayer, LPolygon} from "wgis.leaflet.vue2";
 
 export default {
   components: {

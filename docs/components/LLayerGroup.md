@@ -32,7 +32,7 @@ This is particularly useful to have a single tooltip / popup that is 'shared' ac
 </template>
 
 <script>
-import {LMap, LTileLayer, LLayerGroup, LPopup, LCircle, LMarker} from 'wgis.leaflet.vue2';
+import {LMap, LTileLayer, LLayerGroup, LPopup, LCircle, LMarker} from "wgis.leaflet.vue2";
 
 export default {
   components: {

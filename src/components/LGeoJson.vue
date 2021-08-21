@@ -93,7 +93,7 @@ export default {
 </template>
 
 <script>
-import {LMap, LTileLayer, LGeoJson} from 'vue2-leaflet';
+import {LMap, LTileLayer, LGeoJson} from "wgis.leaflet.vue2";
 
 export default {
   components: {

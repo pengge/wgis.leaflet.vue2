@@ -66,7 +66,7 @@ export default {
 </template>
 
 <script>
-import {LMap, LTileLayer, LCircleMarker} from 'vue2-leaflet';
+import {LMap, LTileLayer, LCircleMarker} from "wgis.leaflet.vue2";
 
 export default {
   components: {
