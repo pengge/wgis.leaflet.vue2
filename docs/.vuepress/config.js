@@ -53,12 +53,12 @@ module.exports = {
       '/examples/': examples,
     },
     nav: [
-      { text: 'Intro', link: '/' },
-      { text: 'Quickstart', link: '/quickstart/' },
-      { text: 'Components', link: '/components/' },
-      { text: 'Examples', link: '/examples/' },
-      { text: 'FAQ', link: '/faq/' },
-      { text: 'Plugins', link: '/plugins/' },
+      { text: '简介', link: '/' },
+      { text: '快速入门', link: '/quickstart/' },
+      { text: '组件', link: '/components/' },
+      { text: '例子', link: '/examples/' },
+      { text: '帮助', link: '/faq/' },
+      { text: '插件', link: '/plugins/' },
     ],
   },
   extendCli(cli) {
